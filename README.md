@@ -1,4 +1,4 @@
-# SigmaOS-mint-doc
+# SigmaOS-doc
 
 Mint documentation component for SigmaOS
 

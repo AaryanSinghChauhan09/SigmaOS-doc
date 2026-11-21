@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-mint-doc"
+name = "SigmaOS-doc"
 tier = 2
 stability = "beta"
 language = "rust"

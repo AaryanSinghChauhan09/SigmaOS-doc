@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-mint-doc
+// Integration test for SigmaOS-doc
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use mint_doc as _;
+use sigmaos_doc as _;
 
 #[test]
 fn crate_links_and_runs() {

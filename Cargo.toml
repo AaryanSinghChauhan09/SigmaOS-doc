@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-mint-doc"
+name = "sigmaos-doc"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS mint-doc component"
+description = "SigmaOS doc component"
 
 [lib]
-name = "mint_doc"
+name = "sigmaos_doc"
 path = "src/lib.rs"

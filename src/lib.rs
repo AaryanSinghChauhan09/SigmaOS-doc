@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-doc: mint doc component model.
+//! SigmaOS-doc: mint doc component model.
 //!
 //! Real implementation: docs, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
